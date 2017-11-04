@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/idea02.iml" filepath="$PROJECT_DIR$/idea02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_common/idea_common.iml" filepath="$PROJECT_DIR$/idea_common/idea_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_dao/idea_dao.iml" filepath="$PROJECT_DIR$/idea_dao/idea_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_entity/idea_entity.iml" filepath="$PROJECT_DIR$/idea_entity/idea_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_service/idea_service.iml" filepath="$PROJECT_DIR$/idea_service/idea_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idea_web/idea_web.iml" filepath="$PROJECT_DIR$/idea_web/idea_web.iml" />
+    </modules>
+  </component>
+</project>
